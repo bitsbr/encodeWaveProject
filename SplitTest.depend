@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536069404 source:c:\users\marcos.toledo\desktop\projetos\splittest\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstring>
+	<sstream>
+
